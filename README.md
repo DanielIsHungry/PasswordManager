@@ -1,6 +1,7 @@
 # Password Manager App
 
 App for generating, strengthening, and managing your passwords. Built with `ttkbootstrap`, featuring password safety tools and password reuse detection. 
+**NOTE:** still in WIP. Will add updates either never or very soon.
 
 ---
 
