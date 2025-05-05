@@ -18,7 +18,7 @@ App for generating, strengthening, and managing your passwords. Built with `ttkb
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - `Python 3.11`
 - `tkinter` + `ttkbootstrap`
@@ -61,11 +61,11 @@ pip install ttkbootstrap Pillow
 
 ---
 
-## 📄 License
+## License
 Andre Lic
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Made with anxiety and sting by [Danny](https://github.com/DanielIsHungry)
